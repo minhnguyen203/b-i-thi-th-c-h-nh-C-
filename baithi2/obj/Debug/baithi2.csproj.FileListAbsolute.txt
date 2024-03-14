@@ -1,0 +1,7 @@
+C:\Users\MINH\OneDrive\Hình ảnh\Camera Roll\OneDrive\source2\source\repos\csharp\baithi2\bin\Debug\baithi2.exe.config
+C:\Users\MINH\OneDrive\Hình ảnh\Camera Roll\OneDrive\source2\source\repos\csharp\baithi2\bin\Debug\baithi2.exe
+C:\Users\MINH\OneDrive\Hình ảnh\Camera Roll\OneDrive\source2\source\repos\csharp\baithi2\bin\Debug\baithi2.pdb
+C:\Users\MINH\OneDrive\Hình ảnh\Camera Roll\OneDrive\source2\source\repos\csharp\baithi2\obj\Debug\baithi2.csproj.AssemblyReference.cache
+C:\Users\MINH\OneDrive\Hình ảnh\Camera Roll\OneDrive\source2\source\repos\csharp\baithi2\obj\Debug\baithi2.csproj.CoreCompileInputs.cache
+C:\Users\MINH\OneDrive\Hình ảnh\Camera Roll\OneDrive\source2\source\repos\csharp\baithi2\obj\Debug\baithi2.exe
+C:\Users\MINH\OneDrive\Hình ảnh\Camera Roll\OneDrive\source2\source\repos\csharp\baithi2\obj\Debug\baithi2.pdb
